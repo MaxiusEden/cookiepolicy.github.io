@@ -7,11 +7,11 @@ title: Privacy Policy
 
 Last updatedJanuary 05, 2026
 
-- Download and useour mobile application(Scout Volleyball),or any other application of ours that links to this Privacy Notice
-- UseScout Volleyball.Scout Volleyball é um aplicativo para coleta e análise de dados de partidas de voleibol. Permite login via Google, armazena partidas e estatísticas no Supabase, sincroniza dados em tempo real entre dispositivos e salva dados localmente no aparelho.
+- Download and use our mobile application(Scout Volleyball),or any other application of ours that links to this Privacy Notice
+- Scout Volleyball é um aplicativo para coleta e análise de dados de partidas de voleibol. Permite login via Google, armazena partidas e estatísticas no Supabase, sincroniza dados em tempo real entre dispositivos e salva dados localmente no aparelho.
 - Engage with us in other related ways, including any marketing or events
 
-Questions or concerns?Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services.If you still have any questions or concerns, please contact us atfilipepm17@gmail.com.
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services.If you still have any questions or concerns, please contact us at filipepm17@gmail.com.
 
 ## SUMMARY OF KEY POINTS
 
